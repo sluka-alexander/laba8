@@ -11,6 +11,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laba8" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573229982364</updated>
       <workItem from="1573229987100" duration="706000" />
-      <workItem from="1573232201071" duration="521000" />
+      <workItem from="1573232201071" duration="1022000" />
     </task>
     <servers />
   </component>
